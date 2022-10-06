@@ -153,7 +153,6 @@ ol{
     display:flex;
     align-items:center;
     justify-content:center;
-    padding-bottom:10%;
 }
 
 .blogHead{
@@ -169,6 +168,8 @@ ol{
 .box{
     width:65%;
     box-shadow:4px 4px 6px 5px gray; 
+    padding-bottom:10%;
+    
 }
 
 .main h1{
