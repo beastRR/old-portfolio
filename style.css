@@ -158,7 +158,7 @@ ol{
 .blogHead{
     color:rgb(121, 52, 52);
 }
-.main button{
+.main1 button{
     background:var(--primary-color) ;
     border:3px solid var(--primary-color);
     padding:0.8%;
