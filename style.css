@@ -153,6 +153,7 @@ ol{
     display:flex;
     align-items:center;
     justify-content:center;
+    padding-bottom:10%;
 }
 
 .blogHead{
@@ -166,7 +167,7 @@ ol{
 }
 
 .box{
-    width:70%;
+    width:65%;
     box-shadow:4px 4px 6px 5px gray; 
 }
 
@@ -177,4 +178,5 @@ ol{
 
 .main h2{
     font-family:cursive;
+    margin-top:7%;
 }
